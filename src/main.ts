@@ -38,3 +38,4 @@ app.directive("tooltip", (el) => {
 });
 
 app.mount("#app");
+console.log('firman');
